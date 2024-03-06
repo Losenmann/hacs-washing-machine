@@ -113,7 +113,7 @@ class WashingMachine extends HTMLElement {
 <table>
 <style>
 @font-face {
-  font-family: "LgLCD";
+  font-family: "LG_LCD";
   src: url("${fontLG}") format("woff");
 }
 </style>
@@ -127,7 +127,7 @@ class WashingMachine extends HTMLElement {
         <img src="${arr[2]}" style="width:50px;height:50px;margin:5px;"/>
         <img src="${arr[3]}" style="width:50px;height:50px;margin:5px;"/>
       </tr>
-      <tr><p style="font-family:LgLCD;font-size:250%;margin:5px;align:center;color:${color}">${state.attributes["remain_time"]}</p></tr>
+      <tr><p style="font-family:LG_LCD;font-size:250%;margin:5px;align:center;color:${color}">${state.attributes["remain_time"]}</p></tr>
       <tr>
         <img src="${arr[4]}" style="width:50px;height:50px;margin:5px;"/>
         <img src="${arr[5]}" style="width:50px;height:50px;margin:5px;"/>
