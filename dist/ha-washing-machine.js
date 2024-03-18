@@ -159,3 +159,10 @@ class WashingMachine extends HTMLElement {
 }
 
 customElements.define("washing-machine", WashingMachine);
+window.customCards.push(
+  {
+    type: "washing_machine",
+    name: "Washing Machine",
+    preview: true
+  }
+);
