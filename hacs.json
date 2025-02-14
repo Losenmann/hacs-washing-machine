@@ -2,6 +2,5 @@
   "name": "Washing Machine",
   "homeassistant": "2023.7.0",
   "content_in_root": true,
-  "filename": "washing-machine.js",
-  "render_readme": true
+  "filename": "washing-machine.js"
 }
