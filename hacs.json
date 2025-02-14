@@ -1,7 +1,7 @@
 {
   "name": "Washing Machine",
   "filename": "washing-machine.js"
-  "homeassistant": "2023.7.0",
+  "homeassistant": "2025.2.3",
   "country": "NO",
   "content_in_root": false,
   "hide_default_branch": false,
