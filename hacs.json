@@ -1,8 +1,6 @@
 {
   "name": "Washing Machine",
-  "filename": "washing-machine.js"
-  "homeassistant": "2025.2.3",
-  "country": "NO",
-  "content_in_root": false,
-  "hide_default_branch": false,
+  "filename": "washing-machine.js",
+  "render_readme": true,
+  "country": ["RU"],
 }
